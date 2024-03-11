@@ -56,6 +56,7 @@ Results indicate:
 2.
 3. 
 
+<img width="581" alt="Maternal Deaths Graph" src="https://github.com/JJ9218/Maternal-Mortality-Rates/assets/163039134/695423b2-1ebc-445c-9052-a5f87d0258d8">
 
 ### Recommendations
 
