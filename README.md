@@ -70,3 +70,9 @@ After removing missing values, there was limited data for Native Americans. Spec
 1. f
 2. p
 
+  |table|table|
+  |-----|-----|
+  |work|work2|
+
+  **bold**
+  *italic*
