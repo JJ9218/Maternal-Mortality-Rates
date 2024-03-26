@@ -40,7 +40,7 @@ The following was perfored for data cleaning and preparation:
 2. Handling missing values
 3. Data cleaning and formatting
 
-### Exploratory Data Analysis
+### Key Aims
 
 The data analysis measured statistical significance of matetnal maternality rates across several races/ethnicities in the United States, answering key questions such as:
 
