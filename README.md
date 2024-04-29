@@ -35,7 +35,7 @@ The dataset used for this analysis is the "VSRR Provisional Maternal Death Count
     
 ### Data Cleaning and Preparation
 
-The following was perfored for data cleaning and preparation:
+The following was performed for data cleaning and preparation:
 1. Data inspection
 2. Handling missing values
 3. Data cleaning and formatting
