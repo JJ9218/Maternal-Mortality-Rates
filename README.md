@@ -1,4 +1,5 @@
 # Racial Disparities in Maternal Mortality Rates in the US
+by J.Jones, MPH
 
 ## Table of Contents
 
