@@ -128,3 +128,4 @@ DOI: https://dx.doi.org/10.15620/cdc:113967.
 9. Berg, Cynthia J., et al. “Pregnancy-related mortality in the United States, 1998 to 2005.” Obstetrics &amp; Gynecology, vol. 116, no. 6, Dec. 2010, pp. 1302–1309, https://doi.org/10.1097/aog.0b013e3181fdfb11.
 10. Crear-Perry, Joia et al. “Social and Structural Determinants of Health Inequities in Maternal Health.” Journal of women's health (2002) vol. 30,2 (2021): 230-235. doi:10.1089/jwh.2020.8882
 11. NCHS. “VSRR Provisional Maternal Death Counts and Rates.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 2024, data.cdc.gov/NCHS/VSRR-Provisional-Maternal-Death-Counts-and-Rates/e2d5-ggg7/about_data
+12. “U.S. Department of Health & Human Services - VSRR Provisional Maternal Death Counts and Rates.” Catalog, Publisher Centers for Disease Control and Prevention, January 2024, catalog.data.gov/dataset/vsrr-provisional-maternal-death-counts
