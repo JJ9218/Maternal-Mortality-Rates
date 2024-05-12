@@ -26,7 +26,7 @@ This project highlights major racial disparities in maternal mortality rates in 
 
 ### Data Sources
 
-The dataset used for this analysis is the "VSRR Provisional Maternal Death Counts and Rates" csv file from the National Center for Health Statistics (NCHS). This dataset was last updated in January 2024, and provides provisional maternal mortality rates in the United States from 2019-2023 based on mortality and natality data from the National Vital Statistics System. ***include how MMR is measured in this dataset
+The dataset used for this analysis is the "VSRR Provisional Maternal Death Counts and Rates" csv file from the National Center for Health Statistics (NCHS). This dataset was last updated in January 2024, and provides provisional maternal mortality rates in the United States from 2019-2023 based on mortality and natality data from the National Vital Statistics System. The maternal mortality rate is measured by the number of maternal deaths per 100,000 live births. 
 
 ### Tools
 
@@ -43,7 +43,7 @@ The following was performed for data cleaning and preparation:
 
 ### Key Aims
 
-The data analysis measured statistical significance of matetnal maternality rates across several races/ethnicities in the United States, answering key questions such as:
+The data analysis measured statistical significance of maternal maternality rates across several races/ethnicities in the United States, answering key questions such as:
 
 - Which races/ethnicities have disproportionately higher maternal mortality rates in the United States?
 - Has there been an increase in maternal mortality rates in the United States since 2019?
@@ -127,4 +127,4 @@ DOI: https://dx.doi.org/10.15620/cdc:113967.
 8. Njoku, Anuli et al. “Listen to the Whispers before They Become Screams: Addressing Black Maternal Morbidity and Mortality in the United States.” Healthcare (Basel, Switzerland) vol. 11,3 438. 3 Feb. 2023, doi:10.3390/healthcare11030438
 9. Berg, Cynthia J., et al. “Pregnancy-related mortality in the United States, 1998 to 2005.” Obstetrics &amp; Gynecology, vol. 116, no. 6, Dec. 2010, pp. 1302–1309, https://doi.org/10.1097/aog.0b013e3181fdfb11.
 10. Crear-Perry, Joia et al. “Social and Structural Determinants of Health Inequities in Maternal Health.” Journal of women's health (2002) vol. 30,2 (2021): 230-235. doi:10.1089/jwh.2020.8882
-11. NCHS. “VSRR Provisional Maternal Death Counts and Rates.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 2024, data.cdc.gov/NCHS/VSRR-Provisional-Maternal-Death-Counts-and-Rates/e2d5-ggg7/about_data. 
+11. NCHS. “VSRR Provisional Maternal Death Counts and Rates.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 2024, data.cdc.gov/NCHS/VSRR-Provisional-Maternal-Death-Counts-and-Rates/e2d5-ggg7/about_data
